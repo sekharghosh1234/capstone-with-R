@@ -1,6 +1,6 @@
 ---
-title: "Coursera Data Science Capstone - Final Project Submission"
-author: "Sangita Das"
+title: "Data Science Capstone Final Project"
+author: "Sekhar Ghosh"
 date: "14/10/2020"
 output: 
   revealjs::revealjs_presentation:
